@@ -1,0 +1,13 @@
+__pycache__
+bin/
+checkpoint/
+etc/
+include/
+lib/
+lib64/
+share/
+wandb/
+pyvenv.cfg
+input_file_soft_prompts.txt
+params.txt
+output_results.txt
